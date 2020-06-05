@@ -1,7 +1,7 @@
 # Disaster Response Pipeline Project
 
 ## Table of Contents
-1. About the Project(#about)
+1. [About the Project](#about)
 2. [Installation](#installation)
 3. [Author](#author)
 5. [References](#ref)
